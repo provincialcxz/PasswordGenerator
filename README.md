@@ -34,6 +34,9 @@
 
 
 ### Использование
+
+**Установите на свой компьютер [.NET Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)**
+
 Для генерации паролей выполните программу с нужными параметрами. Пример использования:
 ```
 int numberOfPasswords = 100;		// количество паролей
@@ -52,4 +55,4 @@ bool useSpecialChars = false; 		// использование специальн
 
 ```
 
-### provincialcxz
+### Автор: provincialcxz
